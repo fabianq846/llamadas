@@ -42,7 +42,7 @@
 		
 ===== Pendientes:
 
-- Home a logging 
+17.- Home a logging 
 - Seguridad en los controladores de Client y Call
 - Registro de llamadas, modificar controller Call , agregar id de cliente.
 - Agregar combobox para motivo en agregar llamada:
